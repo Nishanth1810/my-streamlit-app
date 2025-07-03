@@ -1,14 +1,6 @@
 # my-streamlit-app
-
-gkln/.
-f;bkFbNK;FdB3.
-L;SBNSF'NBKF.
-LSMPF;bn
-fpn;s
-slp
-bSn
-fb'PNFb
-p[osf
-
-spibjisf'b
-]
+source venv/bin/activate
+pip install streamlit
+streamlit --version
+streamlit run app.py
+Now its open to come out we can press ctr + c
