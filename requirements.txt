@@ -9,3 +9,13 @@ git+https://github.com/maxcutler/python-wordpress-xmlrpc.git
 streamlit
 pillow==9.4.0
 --prefer-binary
+streamlit
+pandas
+git+https://github.com/maxcutler/python-wordpress-xmlrpc.git
+streamlit==1.25.0
+...
+streamlit
+pandas
+git+https://github.com/maxcutler/python-wordpress-xmlrpc.git
+...
+git+https://github.com/maxcutler/python-wordpress-xmlrpc.git
